@@ -32,6 +32,9 @@ shinyUI(fluidPage(
         ),
       mainPanel(
         h3("Results"),
+        tags$a(href="http://rpubs.com/xiaoranguo/433258", "Pitch"),
+        tags$br(),
+        tags$a(href="https://github.com/xiaoranguo/week4", "Source code"),
         p("Hover over the titles for a brief explanation!"),
         column(3,align="center"),
         tippy("Histogram of the Metropolis-Hastings MCMC Run", tooltip = "This plot shows the cumulative run of a Markov chain Monte Carlo run using the Metropolis-Hastings algorithm. Adjust the parameters to the left and click submit for a different run!"),

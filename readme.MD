@@ -20,6 +20,10 @@ library(tippy)
 
 [App Deployment](https://xiaoranguo.shinyapps.io/week4/)
 
+## App Source Code
+
+[App Source Code](https://github.com/xiaoranguo/week4)
+
 ## App Pitch
 
 [App Pitch](http://rpubs.com/xiaoranguo/433258)
